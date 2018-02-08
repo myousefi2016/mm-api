@@ -1,3 +1,6 @@
+#include <stdarg.h>
+#include <stdio.h>
+
 #pragma GCC diagnostic ignored "-Wunused-function"
 #pragma GCC diagnostic ignored "-Wunused-variable"
 #pragma GCC diagnostic ignored "-Wswitch"

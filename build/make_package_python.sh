@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PYDIR=python_osx
-OUTDIR=../distrib/python_osx
+PYDIR=python_linux
+OUTDIR=../distrib/python_linux
 
 rm -rf $OUTDIR
 mkdir $OUTDIR

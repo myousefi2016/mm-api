@@ -19,6 +19,9 @@
 #include <vector>
 #include <string>
 #include <lgConfig.h>
+#include <algorithm>
+#include <memory.h>
+using namespace std;
 
 // [RMS] VS2008 requires different handling for std::vector<bool>
 //#define LG_BUILDING_WITH_VS2008
